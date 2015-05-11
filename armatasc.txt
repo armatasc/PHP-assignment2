@@ -1,0 +1,19 @@
+Start: Thur, 7 May 2015 11:30:00 -0800
+End: Thur, 7 May 2015 12:34:00 -0800
+Tasks: I began the reading and video lectures.
+
+Start: Sat, 9 May 2015 20:00:00 -0800
+End: Sat, 9 May 2015 22:00:00 -0800
+Tasks: I completed the reading and video lectures as well as looked at the assignment and started recording in the work log.
+
+Start: Sun, 10 May 2015 11:00:00 -0800
+End: Sun, 10 May 2015 15:30:00 -0800
+Tasks: I completed the basic layout of my document, the POST input for adding a video, the dynamic table displaying the movies, and the check-in/out and delete row buttons.
+
+Start: Sun, 10 May 2015 16:00:00 -0800
+End: Sun, 10 May 2015 18:10:00 -0800
+Tasks: At this point, I believe I have completed all the requirements. Now I am testing the ROUGH TESTING PROTOCAL to see if I will receive 100%.
+
+Start: Sun, 10 May 2015 18:10:00 -0800
+End: Sun, 10 May 2015 18:25:00 -0800
+Tasks: All of the testing criteria are working correctly and I am pleased with my product.
